@@ -15,6 +15,7 @@ return [
 
     'reset' => 'Mật khẩu đã được cập nhật!',
     'sent' => 'Chúng tôi đã gửi cho bạn đường dẫn thay đổi mật khẩu!',
+    'throttled' => 'Vui lòng đợi trước khi thử lại.',
     'token' => 'Mã xác nhận mật khẩu không hợp lệ.',
     'user' => 'Không tìm thấy thành viên với địa chỉ email này.',
 
