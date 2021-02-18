@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Authentication Language Lines
@@ -15,6 +14,5 @@ return [
 
     'failed' => 'Không tìm thấy thông tin đăng nhập hợp lệ.',
     'password' => 'Mật khẩu không đúng.',
-    'throttle' => 'Đăng nhập không đúng quá nhiều lần. Vui lòng thử lại sau :seconds giây.',
-
+    'throttle' => 'Vượt quá số lần đăng nhập cho phép. Vui lòng thử lại sau :seconds giây.',
 ];
