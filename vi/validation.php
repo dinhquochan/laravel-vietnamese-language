@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Trường :attribute phải được chấp nhận.',
+    'accepted_if'          => 'Trường :attribute phải được chấp nhận khi :other là :value.',
     'active_url'           => 'Trường :attribute không phải là một URL hợp lệ.',
     'after'                => 'Trường :attribute phải là một ngày sau ngày :date.',
     'after_or_equal'       => 'Trường :attribute phải là thời gian bắt đầu sau hoặc đúng bằng :date.',
@@ -31,6 +32,7 @@ return [
     ],
     'boolean'              => 'Trường :attribute phải là true hoặc false.',
     'confirmed'            => 'Giá trị xác nhận trong trường :attribute không khớp.',
+    'current_password'     => 'Mật khẩu không đúng.',
     'date'                 => 'Trường :attribute không phải là định dạng của ngày-tháng.',
     'date_equals'          => 'Trường :attribute phải là một ngày bằng với :date.',
     'date_format'          => 'Trường :attribute không giống với định dạng :format.',
