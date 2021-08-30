@@ -12,6 +12,4 @@ Thiết lập ngôn ngữ tiếng Việt cho Laravel.
 # Credits
 
 - [Dinh Quoc Han](https://github.com/dinhquochan)
-- [Laravel Languages Package](https://github.com/caouecs/Laravel-lang)
-
-
+- [Laravel Languages Package](https://github.com/Laravel-Lang/lang)
